@@ -4,7 +4,7 @@ Student course site for F&W ECOL 875, Department of Forest and Wildlife Ecology,
 
 Open `index.html`, or visit the GitHub Pages site for this repository.
 
-Currently open: Weeks 1–3. Each later week is added after the session before it.
+All four weeks are open.
 
 - `index.html`: the whole site (one page; the menu switches sections).
 - `downloads/`: the files the labs ask you to download.
